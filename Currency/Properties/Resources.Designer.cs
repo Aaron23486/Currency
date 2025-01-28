@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using System.Drawing;
+
 namespace Currency.Properties
 {
 
@@ -33,6 +35,8 @@ namespace Currency.Properties
         internal Resources()
         {
         }
+
+        public static Image Divisas { get; internal set; }
 
         /// <summary>
         ///   Devuelve la instancia ResourceManager almacenada en caché utilizada por esta clase.
