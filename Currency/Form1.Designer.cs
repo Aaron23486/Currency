@@ -62,7 +62,6 @@
             this.lblMonedaOrigen.Size = new System.Drawing.Size(148, 25);
             this.lblMonedaOrigen.TabIndex = 1;
             this.lblMonedaOrigen.Text = "Moneda Origen";
-            this.lblMonedaOrigen.Click += new System.EventHandler(this.lblMonedaOrigen_Click);
             // 
             // txtCantidad
             // 
